@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Object Oriented Programs\Object Oriented Programs\bin\Debug\netcoreapp3.1\Object Oriented Programs.exe
+C:\Users\Admin\source\repos\Object Oriented Programs\Object Oriented Programs\bin\Debug\netcoreapp3.1\jsonInventory.json
+C:\Users\Admin\source\repos\Object Oriented Programs\Object Oriented Programs\bin\Debug\netcoreapp3.1\Object Oriented Programs.deps.json
+C:\Users\Admin\source\repos\Object Oriented Programs\Object Oriented Programs\bin\Debug\netcoreapp3.1\Object Oriented Programs.runtimeconfig.json
+C:\Users\Admin\source\repos\Object Oriented Programs\Object Oriented Programs\bin\Debug\netcoreapp3.1\Object Oriented Programs.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Object Oriented Programs\Object Oriented Programs\bin\Debug\netcoreapp3.1\Object Oriented Programs.dll
+C:\Users\Admin\source\repos\Object Oriented Programs\Object Oriented Programs\bin\Debug\netcoreapp3.1\Object Oriented Programs.pdb
+C:\Users\Admin\source\repos\Object Oriented Programs\Object Oriented Programs\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\Object Oriented Programs\Object Oriented Programs\obj\Debug\netcoreapp3.1\Object Oriented Programs.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Object Oriented Programs\Object Oriented Programs\obj\Debug\netcoreapp3.1\Object Oriented Programs.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Object Oriented Programs\Object Oriented Programs\obj\Debug\netcoreapp3.1\Object Oriented Programs.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Object Oriented Programs\Object Oriented Programs\obj\Debug\netcoreapp3.1\Object Oriented Programs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Object Oriented Programs\Object Oriented Programs\obj\Debug\netcoreapp3.1\Object Oriented Programs.csproj.CopyComplete
+C:\Users\Admin\source\repos\Object Oriented Programs\Object Oriented Programs\obj\Debug\netcoreapp3.1\Object Oriented Programs.dll
+C:\Users\Admin\source\repos\Object Oriented Programs\Object Oriented Programs\obj\Debug\netcoreapp3.1\Object Oriented Programs.pdb
+C:\Users\Admin\source\repos\Object Oriented Programs\Object Oriented Programs\obj\Debug\netcoreapp3.1\Object Oriented Programs.genruntimeconfig.cache

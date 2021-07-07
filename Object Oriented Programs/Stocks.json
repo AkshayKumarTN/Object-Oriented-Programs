@@ -1,0 +1,34 @@
+﻿{
+  "Stocks": [
+    {
+      "stockNames": "RELIANCE",
+      "numberOfShare": 295528,
+      "sharePrice": 1461
+    },
+    {
+      "stockNames": "TCS",
+      "numberOfShare": 245622,
+      "sharePrice": 2103
+    },
+    {
+      "stockNames": "HDFCBANK",
+      "numberOfShare": 225427,
+      "sharePrice": 1262
+    },
+    {
+      "stockNames": "ICICIBANK",
+      "numberOfShare": 194527,
+      "sharePrice": 491
+    },
+    {
+      "stockNames": "INFOSYS",
+      "numberOfShare": 123227,
+      "sharePrice": 1491
+    },
+    {
+      "stockNames": "TATA",
+      "numberOfShare": 164823,
+      "sharePrice": 1991
+    }
+  ]
+}

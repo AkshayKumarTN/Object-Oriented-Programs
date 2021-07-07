@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Object Oriented Programs\StockAccountDataProcess\bin\Debug\netcoreapp3.1\StockAccountDataProcess.exe
+C:\Users\Admin\source\repos\Object Oriented Programs\StockAccountDataProcess\bin\Debug\netcoreapp3.1\CustomerRecords.json
+C:\Users\Admin\source\repos\Object Oriented Programs\StockAccountDataProcess\bin\Debug\netcoreapp3.1\StockAccountDataProcess.deps.json
+C:\Users\Admin\source\repos\Object Oriented Programs\StockAccountDataProcess\bin\Debug\netcoreapp3.1\StockAccountDataProcess.runtimeconfig.json
+C:\Users\Admin\source\repos\Object Oriented Programs\StockAccountDataProcess\bin\Debug\netcoreapp3.1\StockAccountDataProcess.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Object Oriented Programs\StockAccountDataProcess\bin\Debug\netcoreapp3.1\StockAccountDataProcess.dll
+C:\Users\Admin\source\repos\Object Oriented Programs\StockAccountDataProcess\bin\Debug\netcoreapp3.1\StockAccountDataProcess.pdb
+C:\Users\Admin\source\repos\Object Oriented Programs\StockAccountDataProcess\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\Object Oriented Programs\StockAccountDataProcess\obj\Debug\netcoreapp3.1\StockAccountDataProcess.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Object Oriented Programs\StockAccountDataProcess\obj\Debug\netcoreapp3.1\StockAccountDataProcess.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Object Oriented Programs\StockAccountDataProcess\obj\Debug\netcoreapp3.1\StockAccountDataProcess.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Object Oriented Programs\StockAccountDataProcess\obj\Debug\netcoreapp3.1\StockAccountDataProcess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Object Oriented Programs\StockAccountDataProcess\obj\Debug\netcoreapp3.1\StockAccountDataProcess.csproj.CopyComplete
+C:\Users\Admin\source\repos\Object Oriented Programs\StockAccountDataProcess\obj\Debug\netcoreapp3.1\StockAccountDataProcess.dll
+C:\Users\Admin\source\repos\Object Oriented Programs\StockAccountDataProcess\obj\Debug\netcoreapp3.1\StockAccountDataProcess.pdb
+C:\Users\Admin\source\repos\Object Oriented Programs\StockAccountDataProcess\obj\Debug\netcoreapp3.1\StockAccountDataProcess.genruntimeconfig.cache

@@ -1,0 +1,68 @@
+{
+  "RiceList": [
+    {
+      "Name": "Daawat Biryani",
+      "Price": 145,
+      "Kg": 10
+    },
+    {
+      "Name": "India Gate",
+      "Price": 120,
+      "Kg": 6,
+    },
+    {
+      "Name": "Red cargo",
+      "Price": 185,
+      "Kg": 5
+    },
+    {
+      "Name": "Brown",
+      "Price": 160,
+      "Kg": 5
+    }
+  ],
+  "PulseList": [
+    {
+      "Name": "Kidney Beens",
+      "Price": 90,
+      "Kg": 8
+    },
+    {
+      "Name": "Mung beans",
+      "Price": 110,
+      "Kg": 5
+    },
+    {
+      "Name": "Kala Chana",
+      "Price": 90,
+      "Kg": 5,
+    },
+    {
+      "Name": "Urad Dal",
+      "Price": 110,
+      "Kg": 5,
+    }
+  ],
+  "WheatsList": [
+    {
+      "Name": "soft white wheats",
+      "Price": 130,
+      "Kg": 15
+    },
+    {
+      "Name": "Hard white wheats",
+      "Price": 110,
+      "Kg": 10
+    },
+    {
+      "Name": "Hardred",
+      "Price": 90,
+      "Kg": 18
+    },
+    {
+      "Name": "Hard red wheats",
+      "Price": 100,
+      "Kg": 10
+    }
+  ]
+}
